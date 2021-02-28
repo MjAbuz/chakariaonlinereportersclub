@@ -3,7 +3,7 @@
   
 # চকরিয়া অনলাইন রিপোর্টার্স ক্লাব
 
-<img https://avatars.githubusercontent.com/u/79803112?s=200&v=4></img>
+<img href='https://avatars.githubusercontent.com/u/79803112?s=200&v=4'></img>
 
 অনলাইন রিপোর্টার বা মিডিয়া কর্মীদের তথ্য প্রযুক্তি ও অন্নান্য পেশা গত মান উন্নয়নের লক্ষ্যে আমাদের যাত্রা। 
 
